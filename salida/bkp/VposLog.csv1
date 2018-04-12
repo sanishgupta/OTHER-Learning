@@ -1,0 +1,5 @@
+DATE;MILLIS;SEQUENCE;LOGGER;LEVEL;CLASS;METHOD;THREAD;MESSAGE
+2016-10-26T13:30:03;1477474203468;0;com.infogain.vpos.service.rest;FINER;com.infogain.vpos.service.rest.VposService;<init>;10;Entering VposService(Context)
+2016-10-26T13:30:03;1477474203515;1;com.infogain.vpos.service.rest;FINER;com.infogain.vpos.service.rest.VposService;<init>;10;com.infogain.vpos.service.rest.VposService Constructor Entered with Context
+2016-10-26T13:30:04;1477474204734;2;com.infogain.vpos.service.rest;FINE;com.infogain.vpos.service.rest.VposWebServer;<init>;10;com.infogain.vpos.service.rest.VposWebServer Constructor, Called Constructor without Context
+2016-10-26T13:30:05;1477474205015;3;com.lmg.vpos.decryption.DecryptionUtil;INFO;com.lmg.vpos.security.decryption.DecryptionUtil;decryptKey;10;Decryption complete

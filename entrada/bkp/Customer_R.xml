@@ -1,0 +1,2876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ROOT SYSTEM "Customer_R.dtd">
+<ROOT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <row>
+      <field name="CUSTOMER_ID">1001</field>
+      <field name="FULL_NAME">Nowmer, Sheri</field>
+      <field name="BIRTH_DATE">03/12/1960</field>
+      <field name="CITY">Poughkeepsie</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">21101</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1002</field>
+      <field name="FULL_NAME">Whelply, Derrick</field>
+      <field name="BIRTH_DATE">06/04/1960</field>
+      <field name="CITY">Manhattan</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">12112</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1003</field>
+      <field name="FULL_NAME">Derry, Jeanne</field>
+      <field name="BIRTH_DATE">12/19/1957</field>
+      <field name="CITY">Long Island</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">19090</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1004</field>
+      <field name="FULL_NAME">Spence, Michael</field>
+      <field name="BIRTH_DATE">03/28/1970</field>
+      <field name="CITY">Buffalo</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">30093</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1005</field>
+      <field name="FULL_NAME">Gutierrez, Maya</field>
+      <field name="BIRTH_DATE">10/28/1965</field>
+      <field name="CITY">Yorktown</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">29845</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1006</field>
+      <field name="FULL_NAME">Damstra, Robert</field>
+      <field name="BIRTH_DATE">03/30/1963</field>
+      <field name="CITY">Manhattan</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">12118</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1007</field>
+      <field name="FULL_NAME">Kanagaki, Rebecca</field>
+      <field name="BIRTH_DATE">06/01/1967</field>
+      <field name="CITY">Ithaca</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">27922</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1008</field>
+      <field name="FULL_NAME">Brunner, Kim</field>
+      <field name="BIRTH_DATE">11/13/1956</field>
+      <field name="CITY">Buffalo</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">30097</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1009</field>
+      <field name="FULL_NAME">Blumberg, Brenda</field>
+      <field name="BIRTH_DATE">11/27/1962</field>
+      <field name="CITY">Yorktown</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">29846</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1010</field>
+      <field name="FULL_NAME">Stanz, Darren</field>
+      <field name="BIRTH_DATE">01/05/1953</field>
+      <field name="CITY">Millbrook</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">24592</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1011</field>
+      <field name="FULL_NAME">Murraiin, Jonathan</field>
+      <field name="BIRTH_DATE">09/08/1950</field>
+      <field name="CITY">Long Island</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">19085</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1012</field>
+      <field name="FULL_NAME">Creek, Jewel</field>
+      <field name="BIRTH_DATE">03/02/1969</field>
+      <field name="CITY">Manhattan</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">12114</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1013</field>
+      <field name="FULL_NAME">Medina, Peggy</field>
+      <field name="BIRTH_DATE">06/02/1960</field>
+      <field name="CITY">Poughkeepsie</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">21093</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1014</field>
+      <field name="FULL_NAME">Rutledge, Bryan</field>
+      <field name="BIRTH_DATE">06/06/1962</field>
+      <field name="CITY">Manhattan</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">12117</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1015</field>
+      <field name="FULL_NAME">Cavestany, Walter</field>
+      <field name="BIRTH_DATE">11/07/1961</field>
+      <field name="CITY">Ithaca</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">27921</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1016</field>
+      <field name="FULL_NAME">Planck, Peggy</field>
+      <field name="BIRTH_DATE">08/01/1967</field>
+      <field name="CITY">Millbrook</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">24596</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1017</field>
+      <field name="FULL_NAME">Marshall, Brenda</field>
+      <field name="BIRTH_DATE">02/09/1955</field>
+      <field name="CITY">Yorktown</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">29847</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1018</field>
+      <field name="FULL_NAME">Wolter, Daniel</field>
+      <field name="BIRTH_DATE">11*/11/1969</field>
+      <field name="CITY">Poughkeepsie</field>
+      <field name="STATE">New York</field>
+      <field name="ZIPCODE">21101</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1019</field>
+      <field name="FULL_NAME">Collins, Dianne</field>
+      <field name="BIRTH_DATE">12/18/1967</field>
+      <field name="CITY">Andover</field>
+      <field name="STATE">Massachusetts</field>
+      <field name="ZIPCODE">8741</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1020</field>
+      <field name="FULL_NAME">Baker, Beverly</field>
+      <field name="BIRTH_DATE">04/12/1954</field>
+      <field name="CITY">Cape Cod</field>
+      <field name="STATE">Massachusetts</field>
+      <field name="ZIPCODE">10977</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1021</field>
+      <field name="FULL_NAME">Castillo, Pedro</field>
+      <field name="BIRTH_DATE">11/12/1957</field>
+      <field name="CITY">Cape Cod</field>
+      <field name="STATE">Massachusetts</field>
+      <field name="ZIPCODE">10982</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1022</field>
+      <field name="FULL_NAME">Borges, Laurie</field>
+      <field name="BIRTH_DATE">07/12/1950</field>
+      <field name="CITY">Acton</field>
+      <field name="STATE">Massachusetts</field>
+      <field name="ZIPCODE">10908</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1023</field>
+      <field name="FULL_NAME">Wyro, Shauna</field>
+      <field name="BIRTH_DATE">05/29/1941</field>
+      <field name="CITY">Andover</field>
+      <field name="STATE">Massachusetts</field>
+      <field name="ZIPCODE">8736</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1024</field>
+      <field name="FULL_NAME">Wyllie, Jacqueline</field>
+      <field name="BIRTH_DATE">11/15/1969</field>
+      <field name="CITY">Andover</field>
+      <field name="STATE">Massachusetts</field>
+      <field name="ZIPCODE">8735</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1025</field>
+      <field name="FULL_NAME">Conley, Lin</field>
+      <field name="BIRTH_DATE">01/14/1960</field>
+      <field name="CITY">Cape Cod</field>
+      <field name="STATE">Massachusetts</field>
+      <field name="ZIPCODE">10978</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1026</field>
+      <field name="FULL_NAME">Bernard, Jose</field>
+      <field name="BIRTH_DATE">04/10/1966</field>
+      <field name="CITY">Andover</field>
+      <field name="STATE">Massachusetts</field>
+      <field name="ZIPCODE">8738</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1027</field>
+      <field name="FULL_NAME">Macaluso, Charles</field>
+      <field name="BIRTH_DATE">05/31/1951</field>
+      <field name="CITY">Manchester</field>
+      <field name="STATE">New Hampshire</field>
+      <field name="ZIPCODE">7570</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1028</field>
+      <field name="FULL_NAME">Wood, Lois</field>
+      <field name="BIRTH_DATE">01/26/1964</field>
+      <field name="CITY">Manchester</field>
+      <field name="STATE">New Hampshire</field>
+      <field name="ZIPCODE">7567</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1029</field>
+      <field name="FULL_NAME">Armstrong, Kevin</field>
+      <field name="BIRTH_DATE">11/30/1976</field>
+      <field name="CITY">Manchester</field>
+      <field name="STATE">New Hampshire</field>
+      <field name="ZIPCODE">7572</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1030</field>
+      <field name="FULL_NAME">Goldey, Cody</field>
+      <field name="BIRTH_DATE">12/08/1964</field>
+      <field name="CITY">Manchester</field>
+      <field name="STATE">New Hampshire</field>
+      <field name="ZIPCODE">7573</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1031</field>
+      <field name="FULL_NAME">Nickell, Paula</field>
+      <field name="BIRTH_DATE">12/30/1958</field>
+      <field name="CITY">Portsmouth</field>
+      <field name="STATE">New Hampshire</field>
+      <field name="ZIPCODE">6550</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1032</field>
+      <field name="FULL_NAME">Long, Eric</field>
+      <field name="BIRTH_DATE">07/02/1968</field>
+      <field name="CITY">Portsmouth</field>
+      <field name="STATE">New Hampshire</field>
+      <field name="ZIPCODE">6557</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1033</field>
+      <field name="FULL_NAME">Solimena, Mary</field>
+      <field name="BIRTH_DATE">03/22/1957</field>
+      <field name="CITY">Portsmouth</field>
+      <field name="STATE">New Hampshire</field>
+      <field name="ZIPCODE">6553</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1034</field>
+      <field name="FULL_NAME">Muenich, Nathan</field>
+      <field name="BIRTH_DATE">01/26/1953</field>
+      <field name="CITY">Portsmouth</field>
+      <field name="STATE">New Hampshire</field>
+      <field name="ZIPCODE">6557</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1035</field>
+      <field name="FULL_NAME">Young, Ed</field>
+      <field name="BIRTH_DATE">10/31/1967</field>
+      <field name="CITY">Portsmouth</field>
+      <field name="STATE">New Hampshire</field>
+      <field name="ZIPCODE">6556</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1036</field>
+      <field name="FULL_NAME">Arnold, Donna</field>
+      <field name="BIRTH_DATE">10/15/1940</field>
+      <field name="CITY">Manchester</field>
+      <field name="STATE">New Hampshire</field>
+      <field name="ZIPCODE">7570</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1037</field>
+      <field name="FULL_NAME">Cooper, Jennifer</field>
+      <field name="BIRTH_DATE">03/10/1966</field>
+      <field name="CITY">Manchester</field>
+      <field name="STATE">New Hampshire</field>
+      <field name="ZIPCODE">7564</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1038</field>
+      <field name="FULL_NAME">Petty, Peggy</field>
+      <field name="BIRTH_DATE">01/24/1959</field>
+      <field name="CITY">Portsmouth</field>
+      <field name="STATE">New Hampshire</field>
+      <field name="ZIPCODE">6553</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1039</field>
+      <field name="FULL_NAME">Olguin, Jessica</field>
+      <field name="BIRTH_DATE">08/11/1946</field>
+      <field name="CITY">Manchester</field>
+      <field name="STATE">New Hampshire</field>
+      <field name="ZIPCODE">7569</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1040</field>
+      <field name="FULL_NAME">Burchett, Phyllis</field>
+      <field name="BIRTH_DATE">07/25/1961</field>
+      <field name="CITY">Manchester</field>
+      <field name="STATE">New Hampshire</field>
+      <field name="ZIPCODE">7572</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1041</field>
+      <field name="FULL_NAME">Bechard, Howard</field>
+      <field name="BIRTH_DATE">01/03/1951</field>
+      <field name="CITY">Manchester</field>
+      <field name="STATE">New Hampshire</field>
+      <field name="ZIPCODE">7572</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1042</field>
+      <field name="FULL_NAME">Carter, Doris</field>
+      <field name="BIRTH_DATE">08/07/1968</field>
+      <field name="CITY">Manchester</field>
+      <field name="STATE">New Hampshire</field>
+      <field name="ZIPCODE">7564</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1043</field>
+      <field name="FULL_NAME">Sharp, Juanita</field>
+      <field name="BIRTH_DATE">12/02/1947</field>
+      <field name="CITY">New London</field>
+      <field name="STATE">Connecticut</field>
+      <field name="ZIPCODE">13789</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1044</field>
+      <field name="FULL_NAME">Brunner, Sandra</field>
+      <field name="BIRTH_DATE">01/12/1958</field>
+      <field name="CITY">Danbury</field>
+      <field name="STATE">Connecticut</field>
+      <field name="ZIPCODE">14013</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1045</field>
+      <field name="FULL_NAME">Staton, Ernest</field>
+      <field name="BIRTH_DATE">02/16/1970</field>
+      <field name="CITY">New London</field>
+      <field name="STATE">Connecticut</field>
+      <field name="ZIPCODE">13786</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1046</field>
+      <field name="FULL_NAME">Sims, Rose</field>
+      <field name="BIRTH_DATE">11/16/1963</field>
+      <field name="CITY">New Canaan</field>
+      <field name="STATE">Connecticut</field>
+      <field name="ZIPCODE">13251</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1047</field>
+      <field name="FULL_NAME">De Carlo, Lauretta</field>
+      <field name="BIRTH_DATE">02/12/1957</field>
+      <field name="CITY">New Canaan</field>
+      <field name="STATE">Connecticut</field>
+      <field name="ZIPCODE">13250</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1048</field>
+      <field name="FULL_NAME">Williams, Mary</field>
+      <field name="BIRTH_DATE">03/31/1973</field>
+      <field name="CITY">New Canaan</field>
+      <field name="STATE">Connecticut</field>
+      <field name="ZIPCODE">13246</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1049</field>
+      <field name="FULL_NAME">Burke, Terri</field>
+      <field name="BIRTH_DATE">12/02/1965</field>
+      <field name="CITY">New London</field>
+      <field name="STATE">Connecticut</field>
+      <field name="ZIPCODE">13786</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1050</field>
+      <field name="FULL_NAME">Osborn, Audrey</field>
+      <field name="BIRTH_DATE">09/08/1963</field>
+      <field name="CITY">New London</field>
+      <field name="STATE">Connecticut</field>
+      <field name="ZIPCODE">13795</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1051</field>
+      <field name="FULL_NAME">Binai, Brian</field>
+      <field name="BIRTH_DATE">09/01/1949</field>
+      <field name="CITY">Danbury</field>
+      <field name="STATE">Connecticut</field>
+      <field name="ZIPCODE">14015</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1052</field>
+      <field name="FULL_NAME">Lozada, Concepcion</field>
+      <field name="BIRTH_DATE">09/29/1956</field>
+      <field name="CITY">Danbury</field>
+      <field name="STATE">Connecticut</field>
+      <field name="ZIPCODE">14017</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1053</field>
+      <field name="FULL_NAME">Tays, Paul</field>
+      <field name="BIRTH_DATE">09/04/1951</field>
+      <field name="CITY">New London</field>
+      <field name="STATE">Connecticut</field>
+      <field name="ZIPCODE">13788</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1054</field>
+      <field name="FULL_NAME">Thorton, Cheryl</field>
+      <field name="BIRTH_DATE">10/08/1963</field>
+      <field name="CITY">New Canaan</field>
+      <field name="STATE">Connecticut</field>
+      <field name="ZIPCODE">13249</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1055</field>
+      <field name="FULL_NAME">Dumin, Gary</field>
+      <field name="BIRTH_DATE">06/25/1939</field>
+      <field name="CITY">Tampa Bay</field>
+      <field name="STATE">Florida</field>
+      <field name="ZIPCODE">37702</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1056</field>
+      <field name="FULL_NAME">Chin, Pat</field>
+      <field name="BIRTH_DATE">09/22/1971</field>
+      <field name="CITY">Orlando</field>
+      <field name="STATE">Florida</field>
+      <field name="ZIPCODE">33548</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1057</field>
+      <field name="FULL_NAME">Lovell, Zach</field>
+      <field name="BIRTH_DATE">11/26/1954</field>
+      <field name="CITY">Miami</field>
+      <field name="STATE">Florida</field>
+      <field name="ZIPCODE">33362</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1058</field>
+      <field name="FULL_NAME">Ratcliff, Dave</field>
+      <field name="BIRTH_DATE">04/23/1952</field>
+      <field name="CITY">Miami</field>
+      <field name="STATE">Florida</field>
+      <field name="ZIPCODE">33357</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1059</field>
+      <field name="FULL_NAME">Moss, Elizabeth</field>
+      <field name="BIRTH_DATE">09/03/1970</field>
+      <field name="CITY">Tampa Bay</field>
+      <field name="STATE">Florida</field>
+      <field name="ZIPCODE">37704</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1060</field>
+      <field name="FULL_NAME">Anderson, Lori</field>
+      <field name="BIRTH_DATE">01/05/1974</field>
+      <field name="CITY">Tampa Bay</field>
+      <field name="STATE">Florida</field>
+      <field name="ZIPCODE">37705</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1061</field>
+      <field name="FULL_NAME">Everson, Michael</field>
+      <field name="BIRTH_DATE">09/24/1983</field>
+      <field name="CITY">Miami</field>
+      <field name="STATE">Florida</field>
+      <field name="ZIPCODE">33356</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1062</field>
+      <field name="FULL_NAME">Borden, Mary</field>
+      <field name="BIRTH_DATE">11/20/1968</field>
+      <field name="CITY">Tampa Bay</field>
+      <field name="STATE">Florida</field>
+      <field name="ZIPCODE">37702</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1063</field>
+      <field name="FULL_NAME">Willson, Sue</field>
+      <field name="BIRTH_DATE">12/06/1953</field>
+      <field name="CITY">Tampa Bay</field>
+      <field name="STATE">Florida</field>
+      <field name="ZIPCODE">37701</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1064</field>
+      <field name="FULL_NAME">Harris, Clayton</field>
+      <field name="BIRTH_DATE">11/13/1958</field>
+      <field name="CITY">Orlando</field>
+      <field name="STATE">Florida</field>
+      <field name="ZIPCODE">33544</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1065</field>
+      <field name="FULL_NAME">Contreras, Whitney</field>
+      <field name="BIRTH_DATE">02/18/1961</field>
+      <field name="CITY">Orlando</field>
+      <field name="STATE">Florida</field>
+      <field name="ZIPCODE">33543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1066</field>
+      <field name="FULL_NAME">Pusedu, Boyd</field>
+      <field name="BIRTH_DATE">05/23/1962</field>
+      <field name="CITY">Orlando</field>
+      <field name="STATE">Florida</field>
+      <field name="ZIPCODE">33550</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1067</field>
+      <field name="FULL_NAME">Stedman, Cian</field>
+      <field name="BIRTH_DATE">10/18/1977</field>
+      <field name="CITY">Orlando</field>
+      <field name="STATE">Florida</field>
+      <field name="ZIPCODE">33550</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1068</field>
+      <field name="FULL_NAME">Zocchi, Michele</field>
+      <field name="BIRTH_DATE">08/06/1953</field>
+      <field name="CITY">Orlando</field>
+      <field name="STATE">Florida</field>
+      <field name="ZIPCODE">33542</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1069</field>
+      <field name="FULL_NAME">Walsh, Jean</field>
+      <field name="BIRTH_DATE">01/31/1968</field>
+      <field name="CITY">Tampa Bay</field>
+      <field name="STATE">Florida</field>
+      <field name="ZIPCODE">37700</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1070</field>
+      <field name="FULL_NAME">Renfro, Leopoldo</field>
+      <field name="BIRTH_DATE">03/22/1973</field>
+      <field name="CITY">Orlando</field>
+      <field name="STATE">Florida</field>
+      <field name="ZIPCODE">33548</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1071</field>
+      <field name="FULL_NAME">Brockett, Donna</field>
+      <field name="BIRTH_DATE">01/17/1967</field>
+      <field name="CITY">Chicago</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">51235</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1072</field>
+      <field name="FULL_NAME">Anderson, Laurie</field>
+      <field name="BIRTH_DATE">09/25/1965</field>
+      <field name="CITY">Chicago</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">51235</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1073</field>
+      <field name="FULL_NAME">Gomez, Louis</field>
+      <field name="BIRTH_DATE">05/25/1951</field>
+      <field name="CITY">Peoria</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">52348</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1074</field>
+      <field name="FULL_NAME">Walker, Julie</field>
+      <field name="BIRTH_DATE">05/09/1962</field>
+      <field name="CITY">Peoria</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">52352</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1075</field>
+      <field name="FULL_NAME">Jones, Jay</field>
+      <field name="BIRTH_DATE">04/06/1954</field>
+      <field name="CITY">Chicago</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">51234</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1076</field>
+      <field name="FULL_NAME">Winfrey, Gayle</field>
+      <field name="BIRTH_DATE">01/27/1965</field>
+      <field name="CITY">Peoria</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">52350</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1077</field>
+      <field name="FULL_NAME">Brown, Yasmina</field>
+      <field name="BIRTH_DATE">10/04/1958</field>
+      <field name="CITY">Peoria</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">52354</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1078</field>
+      <field name="FULL_NAME">Touchstone, Joseph</field>
+      <field name="BIRTH_DATE">04/02/1945</field>
+      <field name="CITY">Peoria</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">52346</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1079</field>
+      <field name="FULL_NAME">Bakhtyari, Mary</field>
+      <field name="BIRTH_DATE">09/24/1956</field>
+      <field name="CITY">Peoria</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">52352</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1080</field>
+      <field name="FULL_NAME">Glass, Melvin</field>
+      <field name="BIRTH_DATE">05/23/1961</field>
+      <field name="CITY">Chicago</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">51238</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1081</field>
+      <field name="FULL_NAME">Cohen, Kristin</field>
+      <field name="BIRTH_DATE">02/28/1972</field>
+      <field name="CITY">Chicago</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">51243</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1082</field>
+      <field name="FULL_NAME">Kharman, Susan</field>
+      <field name="BIRTH_DATE">03/29/1960</field>
+      <field name="CITY">Peoria</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">52349</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1083</field>
+      <field name="FULL_NAME">Kirschner, Gordon</field>
+      <field name="BIRTH_DATE">07/29/1952</field>
+      <field name="CITY">Peoria</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">52348</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1084</field>
+      <field name="FULL_NAME">Burger, William</field>
+      <field name="BIRTH_DATE">01/17/1967</field>
+      <field name="CITY">Chicago</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">51241</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1085</field>
+      <field name="FULL_NAME">Blau, Lana</field>
+      <field name="BIRTH_DATE">12/16/1950</field>
+      <field name="CITY">Peoria</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">52346</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1086</field>
+      <field name="FULL_NAME">Derby, Donna</field>
+      <field name="BIRTH_DATE">10/21/1951</field>
+      <field name="CITY">Chicago</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">51234</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1087</field>
+      <field name="FULL_NAME">Thomson, Kathleen</field>
+      <field name="BIRTH_DATE">07/16/1969</field>
+      <field name="CITY">Peoria</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">52352</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1088</field>
+      <field name="FULL_NAME">Walton, Gabriel</field>
+      <field name="BIRTH_DATE">01/05/1961</field>
+      <field name="CITY">Chicago</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">51238</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1089</field>
+      <field name="FULL_NAME">Meastas, Bishop</field>
+      <field name="BIRTH_DATE">08/02/1957</field>
+      <field name="CITY">Chicago</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">51243</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1090</field>
+      <field name="FULL_NAME">Kouba, Geneva</field>
+      <field name="BIRTH_DATE">03/25/1957</field>
+      <field name="CITY">Chicago</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">51239</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1091</field>
+      <field name="FULL_NAME">Clark, Tricia</field>
+      <field name="BIRTH_DATE">03/21/1967</field>
+      <field name="CITY">Peoria</field>
+      <field name="STATE">Illinois</field>
+      <field name="ZIPCODE">52355</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1092</field>
+      <field name="FULL_NAME">Munn, Debi</field>
+      <field name="BIRTH_DATE">12/23/1968</field>
+      <field name="CITY">Madison</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">60983</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1093</field>
+      <field name="FULL_NAME">Goldberg, Patricia</field>
+      <field name="BIRTH_DATE">12/19/1962</field>
+      <field name="CITY">Milwaukee</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">57903</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1094</field>
+      <field name="FULL_NAME">Magenheim, Susan</field>
+      <field name="BIRTH_DATE">09/05/1960</field>
+      <field name="CITY">Appleton</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">61001</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1095</field>
+      <field name="FULL_NAME">Hance, Nancy</field>
+      <field name="BIRTH_DATE">12/28/1960</field>
+      <field name="CITY">Madison</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">60985</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1096</field>
+      <field name="FULL_NAME">Mehlert, Rhonda</field>
+      <field name="BIRTH_DATE">04/12/1967</field>
+      <field name="CITY">Madison</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">60981</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1097</field>
+      <field name="FULL_NAME">Duran, Paula</field>
+      <field name="BIRTH_DATE">08/07/1961</field>
+      <field name="CITY">Appleton</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">61009</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1098</field>
+      <field name="FULL_NAME">Earley, Margaret</field>
+      <field name="BIRTH_DATE">08/07/1957</field>
+      <field name="CITY">Madison</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">60989</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1099</field>
+      <field name="FULL_NAME">Horne, Elizabeth</field>
+      <field name="BIRTH_DATE">05/11/1955</field>
+      <field name="CITY">Madison</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">60980</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1100</field>
+      <field name="FULL_NAME">Hunt, Mary</field>
+      <field name="BIRTH_DATE">12/11/1958</field>
+      <field name="CITY">Milwaukee</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">57896</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1101</field>
+      <field name="FULL_NAME">Allen, Libby</field>
+      <field name="BIRTH_DATE">03/10/1961</field>
+      <field name="CITY">Milwaukee</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">57904</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1102</field>
+      <field name="FULL_NAME">Bruno, Bonnie</field>
+      <field name="BIRTH_DATE">07/25/1962</field>
+      <field name="CITY">Madison</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">60986</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1103</field>
+      <field name="FULL_NAME">Bowers, Angela</field>
+      <field name="BIRTH_DATE">01/22/1963</field>
+      <field name="CITY">Milwaukee</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">57900</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1104</field>
+      <field name="FULL_NAME">Gonzales, Donald</field>
+      <field name="BIRTH_DATE">12/09/1962</field>
+      <field name="CITY">Madison</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">60983</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1105</field>
+      <field name="FULL_NAME">Valdez, Sylvester</field>
+      <field name="BIRTH_DATE">07/29/1959</field>
+      <field name="CITY">Milwaukee</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">57902</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1106</field>
+      <field name="FULL_NAME">Stewart, John</field>
+      <field name="BIRTH_DATE">06/02/1949</field>
+      <field name="CITY">Appleton</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">61002</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1107</field>
+      <field name="FULL_NAME">Velasquez, Barney</field>
+      <field name="BIRTH_DATE">11/22/1945</field>
+      <field name="CITY">Madison</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">60985</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1108</field>
+      <field name="FULL_NAME">Dubois, Kenneth</field>
+      <field name="BIRTH_DATE">02/15/1949</field>
+      <field name="CITY">Madison</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">60985</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1109</field>
+      <field name="FULL_NAME">Maestas, Kate</field>
+      <field name="BIRTH_DATE">06/17/1961</field>
+      <field name="CITY">Appleton</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">61002</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1110</field>
+      <field name="FULL_NAME">Underwood, Josie</field>
+      <field name="BIRTH_DATE">12/08/1958</field>
+      <field name="CITY">Milwaukee</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">57902</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1111</field>
+      <field name="FULL_NAME">Strain, Ramon</field>
+      <field name="BIRTH_DATE">01/10/1958</field>
+      <field name="CITY">Appleton</field>
+      <field name="STATE">Wisconsin</field>
+      <field name="ZIPCODE">61008</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1112</field>
+      <field name="FULL_NAME">Azari, Pat</field>
+      <field name="BIRTH_DATE">11/25/1973</field>
+      <field name="CITY">Columbus</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">61204</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1113</field>
+      <field name="FULL_NAME">Dabit, Bob</field>
+      <field name="BIRTH_DATE">06/25/1956</field>
+      <field name="CITY">Akron</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">61995</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1114</field>
+      <field name="FULL_NAME">Carmona, Marty</field>
+      <field name="BIRTH_DATE">01/21/1958</field>
+      <field name="CITY">Columbus</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">61200</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1115</field>
+      <field name="FULL_NAME">Saxton, Gina</field>
+      <field name="BIRTH_DATE">08/24/1960</field>
+      <field name="CITY">Akron</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">61994</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1116</field>
+      <field name="FULL_NAME">McLaughlin, Juan</field>
+      <field name="BIRTH_DATE">11/30/1962</field>
+      <field name="CITY">Toledo</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">62108</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1117</field>
+      <field name="FULL_NAME">Eyster, Carol</field>
+      <field name="BIRTH_DATE">12/20/1975</field>
+      <field name="CITY">Columbus</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">61207</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1118</field>
+      <field name="FULL_NAME">Henry, Nancy</field>
+      <field name="BIRTH_DATE">10/23/1963</field>
+      <field name="CITY">Toledo</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">62101</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1119</field>
+      <field name="FULL_NAME">Barros, Chris</field>
+      <field name="BIRTH_DATE">12/31/1957</field>
+      <field name="CITY">Akron</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">61989</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1120</field>
+      <field name="FULL_NAME">Groome, Christopher</field>
+      <field name="BIRTH_DATE">02/12/1968</field>
+      <field name="CITY">Cleveland</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">62218</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1121</field>
+      <field name="FULL_NAME">Hill, Anna</field>
+      <field name="BIRTH_DATE">09/27/1954</field>
+      <field name="CITY">Toledo</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">62109</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1122</field>
+      <field name="FULL_NAME">Williams, Ramon</field>
+      <field name="BIRTH_DATE">03/18/1969</field>
+      <field name="CITY">Akron</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">61989</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1123</field>
+      <field name="FULL_NAME">Masters, Scott</field>
+      <field name="BIRTH_DATE">06/28/1965</field>
+      <field name="CITY">Cleveland</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">62216</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1124</field>
+      <field name="FULL_NAME">Brady, Jr., Joseph</field>
+      <field name="BIRTH_DATE">09/14/1950</field>
+      <field name="CITY">Columbus</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">61208</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1125</field>
+      <field name="FULL_NAME">Gray, Ellen</field>
+      <field name="BIRTH_DATE">05/07/1971</field>
+      <field name="CITY">Akron</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">61990</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1126</field>
+      <field name="FULL_NAME">Fielder, Henry</field>
+      <field name="BIRTH_DATE">02/27/1961</field>
+      <field name="CITY">Columbus</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">61204</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1127</field>
+      <field name="FULL_NAME">Finnell, Jeanine</field>
+      <field name="BIRTH_DATE">09/09/1952</field>
+      <field name="CITY">Cleveland</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">62213</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1128</field>
+      <field name="FULL_NAME">Schuetz, Ian</field>
+      <field name="BIRTH_DATE">10/22/1947</field>
+      <field name="CITY">Cleveland</field>
+      <field name="STATE">Ohio</field>
+      <field name="ZIPCODE">62218</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1129</field>
+      <field name="FULL_NAME">Runyon, Richard</field>
+      <field name="BIRTH_DATE">10/22/1966</field>
+      <field name="CITY">Kansas City</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64507</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1130</field>
+      <field name="FULL_NAME">Potter, Linda</field>
+      <field name="BIRTH_DATE">01/12/1964</field>
+      <field name="CITY">Kansas City</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64515</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1131</field>
+      <field name="FULL_NAME">Smith, Mary</field>
+      <field name="BIRTH_DATE">07/11/1953</field>
+      <field name="CITY">St. Loius</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64103</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1132</field>
+      <field name="FULL_NAME">Brumagen, Barbara</field>
+      <field name="BIRTH_DATE">11/03/1959</field>
+      <field name="CITY">St. Loius</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64095</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1133</field>
+      <field name="FULL_NAME">Hamilton, Thelma</field>
+      <field name="BIRTH_DATE">06/30/1965</field>
+      <field name="CITY">Kansas City</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64514</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1134</field>
+      <field name="FULL_NAME">J Wilbert, Shirley</field>
+      <field name="BIRTH_DATE">11/09/1955</field>
+      <field name="CITY">Kansas City</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64514</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1135</field>
+      <field name="FULL_NAME">Ingram, Jeremy</field>
+      <field name="BIRTH_DATE">11/17/1961</field>
+      <field name="CITY">St. Loius</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64094</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1136</field>
+      <field name="FULL_NAME">Haddix, Sharon</field>
+      <field name="BIRTH_DATE">05/13/1957</field>
+      <field name="CITY">Kansas City</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64506</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1137</field>
+      <field name="FULL_NAME">Thomas, Leland</field>
+      <field name="BIRTH_DATE">07/31/1966</field>
+      <field name="CITY">Kansas City</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64512</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1138</field>
+      <field name="FULL_NAME">Wilson, Don</field>
+      <field name="BIRTH_DATE">01/28/1961</field>
+      <field name="CITY">St. Loius</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1139</field>
+      <field name="FULL_NAME">Stovall, Wayne</field>
+      <field name="BIRTH_DATE">06/26/1965</field>
+      <field name="CITY">Kansas City</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64513</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1140</field>
+      <field name="FULL_NAME">Russell, Douglas</field>
+      <field name="BIRTH_DATE">12/29/1962</field>
+      <field name="CITY">Kansas City</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64507</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1141</field>
+      <field name="FULL_NAME">Doose, Maureen</field>
+      <field name="BIRTH_DATE">10/18/1951</field>
+      <field name="CITY">Kansas City</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64506</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1142</field>
+      <field name="FULL_NAME">Morreale, Ann</field>
+      <field name="BIRTH_DATE">08/22/1966</field>
+      <field name="CITY">St. Loius</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64094</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1143</field>
+      <field name="FULL_NAME">Rupert, Sheila</field>
+      <field name="BIRTH_DATE">03/13/1952</field>
+      <field name="CITY">Kansas City</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64509</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1144</field>
+      <field name="FULL_NAME">Pierson, Ashley</field>
+      <field name="BIRTH_DATE">03/04/1966</field>
+      <field name="CITY">St. Loius</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64095</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1145</field>
+      <field name="FULL_NAME">Nickels, Ivan</field>
+      <field name="BIRTH_DATE">04/28/1950</field>
+      <field name="CITY">Kansas City</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64506</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1146</field>
+      <field name="FULL_NAME">Neuhauser, Chad</field>
+      <field name="BIRTH_DATE">09/12/1970</field>
+      <field name="CITY">St. Loius</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64103</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1147</field>
+      <field name="FULL_NAME">Coke, Ann</field>
+      <field name="BIRTH_DATE">09/03/1962</field>
+      <field name="CITY">Kansas City</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64507</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1148</field>
+      <field name="FULL_NAME">Scarbrough, Jon</field>
+      <field name="BIRTH_DATE">11/25/1959</field>
+      <field name="CITY">Kansas City</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64507</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1149</field>
+      <field name="FULL_NAME">Martensen, Lillian</field>
+      <field name="BIRTH_DATE">11/25/1963</field>
+      <field name="CITY">St. Loius</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1150</field>
+      <field name="FULL_NAME">McCormick, Mary</field>
+      <field name="BIRTH_DATE">06/21/1961</field>
+      <field name="CITY">St. Loius</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64097</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1151</field>
+      <field name="FULL_NAME">Sparacino, James</field>
+      <field name="BIRTH_DATE">02/21/1965</field>
+      <field name="CITY">St. Loius</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64094</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1152</field>
+      <field name="FULL_NAME">Racette, John</field>
+      <field name="BIRTH_DATE">12/09/1952</field>
+      <field name="CITY">Kansas City</field>
+      <field name="STATE">Missouri</field>
+      <field name="ZIPCODE">64515</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1153</field>
+      <field name="FULL_NAME">Thompson, Edwardo</field>
+      <field name="BIRTH_DATE">09/24/1968</field>
+      <field name="CITY">Des Moines</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">65790</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1154</field>
+      <field name="FULL_NAME">Warren, Sam</field>
+      <field name="BIRTH_DATE">05/22/1966</field>
+      <field name="CITY">Dubuque</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">66804</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1155</field>
+      <field name="FULL_NAME">Chow-Wang, Shelby</field>
+      <field name="BIRTH_DATE">06/27/1960</field>
+      <field name="CITY">Des Moines</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">65790</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1156</field>
+      <field name="FULL_NAME">Wood, Nelly</field>
+      <field name="BIRTH_DATE">01/01/1957</field>
+      <field name="CITY">Dubuque</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">66804</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1157</field>
+      <field name="FULL_NAME">Morgan, Jackie</field>
+      <field name="BIRTH_DATE">11/22/1957</field>
+      <field name="CITY">Des Moines</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">65790</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1158</field>
+      <field name="FULL_NAME">Boje, Gavin</field>
+      <field name="BIRTH_DATE">09/29/1973</field>
+      <field name="CITY">Des Moines</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">65790</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1159</field>
+      <field name="FULL_NAME">Tsujimoto, Marlene</field>
+      <field name="BIRTH_DATE">02/02/1959</field>
+      <field name="CITY">Dubuque</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">66804</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1160</field>
+      <field name="FULL_NAME">Bouton, RitaIva</field>
+      <field name="BIRTH_DATE">12/17/1958</field>
+      <field name="CITY">Des Moines</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">65790</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1161</field>
+      <field name="FULL_NAME">Gras, Dell</field>
+      <field name="BIRTH_DATE">02/28/1956</field>
+      <field name="CITY">Des Moines</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">65790</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1162</field>
+      <field name="FULL_NAME">Solano, Christopher</field>
+      <field name="BIRTH_DATE">05/30/1961</field>
+      <field name="CITY">Des Moines</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">65790</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1163</field>
+      <field name="FULL_NAME">Armstrong, George</field>
+      <field name="BIRTH_DATE">12/19/1955</field>
+      <field name="CITY">Dubuque</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">66804</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1164</field>
+      <field name="FULL_NAME">Aldred, Kristine</field>
+      <field name="BIRTH_DATE">08/18/1940</field>
+      <field name="CITY">Dubuque</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">66804</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1165</field>
+      <field name="FULL_NAME">Jorgenson, Tom</field>
+      <field name="BIRTH_DATE">07/31/1959</field>
+      <field name="CITY">Des Moines</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">65790</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1166</field>
+      <field name="FULL_NAME">Turner, Dana</field>
+      <field name="BIRTH_DATE">06/15/1966</field>
+      <field name="CITY">Des Moines</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">65790</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1167</field>
+      <field name="FULL_NAME">Zakerski, Terry</field>
+      <field name="BIRTH_DATE">04/08/1949</field>
+      <field name="CITY">Dubuque</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">66804</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1168</field>
+      <field name="FULL_NAME">Carlson, David</field>
+      <field name="BIRTH_DATE">07/26/1961</field>
+      <field name="CITY">Des Moines</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">65790</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1169</field>
+      <field name="FULL_NAME">Symons, Linda</field>
+      <field name="BIRTH_DATE">11/16/1960</field>
+      <field name="CITY">Dubuque</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">66804</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1170</field>
+      <field name="FULL_NAME">Reynolds, Louis</field>
+      <field name="BIRTH_DATE">02/27/1945</field>
+      <field name="CITY">Dubuque</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">66804</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1171</field>
+      <field name="FULL_NAME">Ibsen, Maureen</field>
+      <field name="BIRTH_DATE">07/21/1967</field>
+      <field name="CITY">Dubuque</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">66804</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1172</field>
+      <field name="FULL_NAME">Ciochon, Virginia</field>
+      <field name="BIRTH_DATE">05/29/1957</field>
+      <field name="CITY">Dubuque</field>
+      <field name="STATE">Iowa</field>
+      <field name="ZIPCODE">66804</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1173</field>
+      <field name="FULL_NAME">Berger, Steve</field>
+      <field name="BIRTH_DATE">10/15/1951</field>
+      <field name="CITY">Oklahoma City</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70204</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1174</field>
+      <field name="FULL_NAME">Bayol, James</field>
+      <field name="BIRTH_DATE">03/06/1952</field>
+      <field name="CITY">Oklahoma City</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70204</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1175</field>
+      <field name="FULL_NAME">Thumann, Meredith</field>
+      <field name="BIRTH_DATE">09/02/1962</field>
+      <field name="CITY">Tulsa</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70009</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1176</field>
+      <field name="FULL_NAME">Jones, Julie</field>
+      <field name="BIRTH_DATE">01/01/1951</field>
+      <field name="CITY">Oklahoma City</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70204</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1177</field>
+      <field name="FULL_NAME">Bury, Janet</field>
+      <field name="BIRTH_DATE">03/17/1955</field>
+      <field name="CITY">Tulsa</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70009</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1178</field>
+      <field name="FULL_NAME">Bevan, Onita</field>
+      <field name="BIRTH_DATE">05/20/1954</field>
+      <field name="CITY">Tulsa</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70009</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1179</field>
+      <field name="FULL_NAME">Monarco, Mary</field>
+      <field name="BIRTH_DATE">06/16/1977</field>
+      <field name="CITY">Oklahoma City</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70204</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1180</field>
+      <field name="FULL_NAME">Zingarelli, Vicky</field>
+      <field name="BIRTH_DATE">10/18/1948</field>
+      <field name="CITY">Oklahoma City</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70204</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1181</field>
+      <field name="FULL_NAME">Valentine, Helen</field>
+      <field name="BIRTH_DATE">11/19/1960</field>
+      <field name="CITY">Tulsa</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70009</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1182</field>
+      <field name="FULL_NAME">Scheulen, Carol</field>
+      <field name="BIRTH_DATE">08/29/1957</field>
+      <field name="CITY">Oklahoma City</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70204</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1183</field>
+      <field name="FULL_NAME">Koon, Virgie</field>
+      <field name="BIRTH_DATE">10/17/1969</field>
+      <field name="CITY">Tulsa</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70009</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1184</field>
+      <field name="FULL_NAME">Amole, Sarah</field>
+      <field name="BIRTH_DATE">09/05/1955</field>
+      <field name="CITY">Oklahoma City</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70204</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1185</field>
+      <field name="FULL_NAME">Hill, Cecil</field>
+      <field name="BIRTH_DATE">12/03/1980</field>
+      <field name="CITY">Oklahoma City</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70204</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1186</field>
+      <field name="FULL_NAME">Tate, Ruth</field>
+      <field name="BIRTH_DATE">07/18/1969</field>
+      <field name="CITY">Oklahoma City</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70204</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1187</field>
+      <field name="FULL_NAME">Schnurr, Larry</field>
+      <field name="BIRTH_DATE">02/26/1952</field>
+      <field name="CITY">Oklahoma City</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70204</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1188</field>
+      <field name="FULL_NAME">Sutton, Jerry</field>
+      <field name="BIRTH_DATE">10/03/1949</field>
+      <field name="CITY">Tulsa</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70009</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1189</field>
+      <field name="FULL_NAME">Mlincek, Kevin</field>
+      <field name="BIRTH_DATE">03/09/1964</field>
+      <field name="CITY">Tulsa</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70009</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1190</field>
+      <field name="FULL_NAME">Tucker, Edward</field>
+      <field name="BIRTH_DATE">09/22/1967</field>
+      <field name="CITY">Oklahoma City</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70204</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1191</field>
+      <field name="FULL_NAME">Forham, Kenton</field>
+      <field name="BIRTH_DATE">02/13/1953</field>
+      <field name="CITY">Tulsa</field>
+      <field name="STATE">Oklahoma</field>
+      <field name="ZIPCODE">70009</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1192</field>
+      <field name="FULL_NAME">Malik, Brittany</field>
+      <field name="BIRTH_DATE">01/12/1967</field>
+      <field name="CITY">New Orleans</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70450</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1193</field>
+      <field name="FULL_NAME">Eldridge, Jeannette</field>
+      <field name="BIRTH_DATE">05/14/1948</field>
+      <field name="CITY">New Orleans</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70450</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1194</field>
+      <field name="FULL_NAME">Anderson, Terry</field>
+      <field name="BIRTH_DATE">05/11/1960</field>
+      <field name="CITY">New Orleans</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70450</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1195</field>
+      <field name="FULL_NAME">Sosa, Loni</field>
+      <field name="BIRTH_DATE">01/07/1947</field>
+      <field name="CITY">New Orleans</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70450</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1196</field>
+      <field name="FULL_NAME">Mann, Marie</field>
+      <field name="BIRTH_DATE">04/23/1963</field>
+      <field name="CITY">Shreveport</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1197</field>
+      <field name="FULL_NAME">Prater, Michael</field>
+      <field name="BIRTH_DATE">12/17*/1953</field>
+      <field name="CITY">New Orleans</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70450</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1198</field>
+      <field name="FULL_NAME">Ansaldo, Karen</field>
+      <field name="BIRTH_DATE">11/28/1954</field>
+      <field name="CITY">New Orleans</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70450</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1199</field>
+      <field name="FULL_NAME">Caijem, Lance</field>
+      <field name="BIRTH_DATE">10/19/1956</field>
+      <field name="CITY">New Orleans</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70450</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1200</field>
+      <field name="FULL_NAME">Yates, Pamela</field>
+      <field name="BIRTH_DATE">07/17/1956</field>
+      <field name="CITY">Shreveport</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1201</field>
+      <field name="FULL_NAME">Turner, Iwona</field>
+      <field name="BIRTH_DATE">05/19/1972</field>
+      <field name="CITY">New Orleans</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70450</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1202</field>
+      <field name="FULL_NAME">Fulcher, Mary</field>
+      <field name="BIRTH_DATE">06/19/1948</field>
+      <field name="CITY">Shreveport</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1203</field>
+      <field name="FULL_NAME">Berg, Raymond</field>
+      <field name="BIRTH_DATE">04/16/1963</field>
+      <field name="CITY">New Orleans</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70450</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1204</field>
+      <field name="FULL_NAME">Lopez, Ramona</field>
+      <field name="BIRTH_DATE">05/04/1957</field>
+      <field name="CITY">Shreveport</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1205</field>
+      <field name="FULL_NAME">Valdivia, Helen</field>
+      <field name="BIRTH_DATE">01/19/1974</field>
+      <field name="CITY">New Orleans</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70450</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1206</field>
+      <field name="FULL_NAME">Cardoza, Beverly</field>
+      <field name="BIRTH_DATE">11/18/1966</field>
+      <field name="CITY">New Orleans</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70450</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1207</field>
+      <field name="FULL_NAME">Hall, Mary</field>
+      <field name="BIRTH_DATE">04/24/1957</field>
+      <field name="CITY">Shreveport</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1208</field>
+      <field name="FULL_NAME">Minarick, Rachel</field>
+      <field name="BIRTH_DATE">11/08/1959</field>
+      <field name="CITY">New Orleans</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70450</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1209</field>
+      <field name="FULL_NAME">Los Olmos, Dorine</field>
+      <field name="BIRTH_DATE">04/23/1964</field>
+      <field name="CITY">Shreveport</field>
+      <field name="STATE">Louisiana</field>
+      <field name="ZIPCODE">70543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1210</field>
+      <field name="FULL_NAME">Garner, Dave</field>
+      <field name="BIRTH_DATE">02/19/1955</field>
+      <field name="CITY">Dallas</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">81023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1211</field>
+      <field name="FULL_NAME">Leong, Lois</field>
+      <field name="BIRTH_DATE">01/17/1953</field>
+      <field name="CITY">Houston</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">81342</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1212</field>
+      <field name="FULL_NAME">Tate, Larasa</field>
+      <field name="BIRTH_DATE">04/26/1971</field>
+      <field name="CITY">Amarillo</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">84453</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1213</field>
+      <field name="FULL_NAME">Watson, David</field>
+      <field name="BIRTH_DATE">12/30/1976</field>
+      <field name="CITY">San Antonio</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">83425</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1214</field>
+      <field name="FULL_NAME">Frank, James</field>
+      <field name="BIRTH_DATE">05/03/1964</field>
+      <field name="CITY">San Antonio</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">83425</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1215</field>
+      <field name="FULL_NAME">Wood, Alfredo</field>
+      <field name="BIRTH_DATE">08/04/1947</field>
+      <field name="CITY">Dallas</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">81023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1216</field>
+      <field name="FULL_NAME">Baird, Dorothy</field>
+      <field name="BIRTH_DATE">05/23/1959</field>
+      <field name="CITY">San Antonio</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">83425</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1217</field>
+      <field name="FULL_NAME">Jans, George</field>
+      <field name="BIRTH_DATE">12/28/1956</field>
+      <field name="CITY">Amarillo</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">84453</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1218</field>
+      <field name="FULL_NAME">Garrison, Bernadine</field>
+      <field name="BIRTH_DATE">04/06/1962</field>
+      <field name="CITY">Houston</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">81342</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1219</field>
+      <field name="FULL_NAME">Zeller, Sam</field>
+      <field name="BIRTH_DATE">11/01/1960</field>
+      <field name="CITY">Houston</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">81342</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1220</field>
+      <field name="FULL_NAME">Ace, Dorothy</field>
+      <field name="BIRTH_DATE">11/06/1965</field>
+      <field name="CITY">Sweetwater</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">82227</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1221</field>
+      <field name="FULL_NAME">Trujillo, Adria</field>
+      <field name="BIRTH_DATE">12/18/1969</field>
+      <field name="CITY">San Antonio</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">83425</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1222</field>
+      <field name="FULL_NAME">McCown, Bunny</field>
+      <field name="BIRTH_DATE">06/21/1959</field>
+      <field name="CITY">Amarillo</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">84453</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1223</field>
+      <field name="FULL_NAME">Miller, Nancy</field>
+      <field name="BIRTH_DATE">01/06/1964</field>
+      <field name="CITY">San Antonio</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">83425</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1224</field>
+      <field name="FULL_NAME">Hollar, Wanda</field>
+      <field name="BIRTH_DATE">07/07/1956</field>
+      <field name="CITY">Amarillo</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">84453</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1225</field>
+      <field name="FULL_NAME">Wallin, Barbara</field>
+      <field name="BIRTH_DATE">11/22/1964</field>
+      <field name="CITY">Houston</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">81342</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1226</field>
+      <field name="FULL_NAME">Bruha, Michael</field>
+      <field name="BIRTH_DATE">04/18/1965</field>
+      <field name="CITY">Houston</field>
+      <field name="STATE">Texas</field>
+      <field name="ZIPCODE">81342</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1227</field>
+      <field name="FULL_NAME">Suggs, Michael</field>
+      <field name="BIRTH_DATE">09/10/1949</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1228</field>
+      <field name="FULL_NAME">Turner, Kenneth</field>
+      <field name="BIRTH_DATE">04/17/1944</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1229</field>
+      <field name="FULL_NAME">Griffin, Lois</field>
+      <field name="BIRTH_DATE">02/06/1961</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1230</field>
+      <field name="FULL_NAME">Guardamondo, Robert</field>
+      <field name="BIRTH_DATE">11/06/1966</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1231</field>
+      <field name="FULL_NAME">West, Bryan</field>
+      <field name="BIRTH_DATE">05/27/1968</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1232</field>
+      <field name="FULL_NAME">Welsh, Vicki</field>
+      <field name="BIRTH_DATE">02/28/1943</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1233</field>
+      <field name="FULL_NAME">McCollum, Harvey</field>
+      <field name="BIRTH_DATE">03/08/1974</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1234</field>
+      <field name="FULL_NAME">Cramer, Mary</field>
+      <field name="BIRTH_DATE">05/14/1972</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1235</field>
+      <field name="FULL_NAME">Fike, Linda</field>
+      <field name="BIRTH_DATE">06/17/1964</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1236</field>
+      <field name="FULL_NAME">Adair, Sam</field>
+      <field name="BIRTH_DATE">09/30/1959</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1237</field>
+      <field name="FULL_NAME">Kolosso, Jerry</field>
+      <field name="BIRTH_DATE">02/23/1953</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1238</field>
+      <field name="FULL_NAME">Carpenter, Todd</field>
+      <field name="BIRTH_DATE">03/30/1943</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1239</field>
+      <field name="FULL_NAME">Watkins, Lisa</field>
+      <field name="BIRTH_DATE">08/18/1961</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1240</field>
+      <field name="FULL_NAME">Barrera, Kevin</field>
+      <field name="BIRTH_DATE">08/30/1965</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1241</field>
+      <field name="FULL_NAME">Price, Maria</field>
+      <field name="BIRTH_DATE">02/09/1968</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1242</field>
+      <field name="FULL_NAME">Rosemont, Flossie</field>
+      <field name="BIRTH_DATE">10/06/1962</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1243</field>
+      <field name="FULL_NAME">McMenama, Betty</field>
+      <field name="BIRTH_DATE">03/28/1969</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1244</field>
+      <field name="FULL_NAME">Lyons, Max</field>
+      <field name="BIRTH_DATE">03/26/1960</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1245</field>
+      <field name="FULL_NAME">Sandy Kurtz, Christine</field>
+      <field name="BIRTH_DATE">01/02/1972</field>
+      <field name="CITY">Albuquerque</field>
+      <field name="STATE">New Mexico</field>
+      <field name="ZIPCODE">87102</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1246</field>
+      <field name="FULL_NAME">Santry, Rita</field>
+      <field name="BIRTH_DATE">04/28/1955</field>
+      <field name="CITY">Aspen</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84352</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1247</field>
+      <field name="FULL_NAME">Quigle, Catherine</field>
+      <field name="BIRTH_DATE">07/14/1952</field>
+      <field name="CITY">Aspen</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84352</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1248</field>
+      <field name="FULL_NAME">Christensen, Patricia</field>
+      <field name="BIRTH_DATE">05/04/1955</field>
+      <field name="CITY">Denver</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84654</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1249</field>
+      <field name="FULL_NAME">Mercurio, Anne</field>
+      <field name="BIRTH_DATE">07/01/1953</field>
+      <field name="CITY">Grand Junction</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84451</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1250</field>
+      <field name="FULL_NAME">McGrath, Louis</field>
+      <field name="BIRTH_DATE">12/07/1946</field>
+      <field name="CITY">Grand Junction</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84451</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1251</field>
+      <field name="FULL_NAME">Wright, Rachael</field>
+      <field name="BIRTH_DATE">10/22/1961</field>
+      <field name="CITY">Denver</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84654</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1252</field>
+      <field name="FULL_NAME">Skuce, Richard</field>
+      <field name="BIRTH_DATE">02/26/1962</field>
+      <field name="CITY">Denver</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84654</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1253</field>
+      <field name="FULL_NAME">Coleman, George</field>
+      <field name="BIRTH_DATE">09/15/1951</field>
+      <field name="CITY">Denver</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84654</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1254</field>
+      <field name="FULL_NAME">Barnes, Lois</field>
+      <field name="BIRTH_DATE">06/15/1957</field>
+      <field name="CITY">Denver</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84654</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1255</field>
+      <field name="FULL_NAME">Camille, Jacky</field>
+      <field name="BIRTH_DATE">03/19/1971</field>
+      <field name="CITY">Grand Junction</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84451</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1256</field>
+      <field name="FULL_NAME">Allenbach, Michelle</field>
+      <field name="BIRTH_DATE">10/12/1962</field>
+      <field name="CITY">Denver</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84654</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1257</field>
+      <field name="FULL_NAME">Smith, Franklin</field>
+      <field name="BIRTH_DATE">05/26/1963</field>
+      <field name="CITY">Aspen</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84352</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1258</field>
+      <field name="FULL_NAME">Minker, John</field>
+      <field name="BIRTH_DATE">06/10/1953</field>
+      <field name="CITY">Aspen</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84352</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1259</field>
+      <field name="FULL_NAME">Jimenez, Sarah</field>
+      <field name="BIRTH_DATE">08/31/1979</field>
+      <field name="CITY">Aspen</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84352</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1260</field>
+      <field name="FULL_NAME">Malaby, Darwin</field>
+      <field name="BIRTH_DATE">11/24/1959</field>
+      <field name="CITY">Aspen</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84352</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1261</field>
+      <field name="FULL_NAME">Caldwell, Pamela</field>
+      <field name="BIRTH_DATE">07/23/1961</field>
+      <field name="CITY">Grand Junction</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84451</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1262</field>
+      <field name="FULL_NAME">Tinder, Roger</field>
+      <field name="BIRTH_DATE">07/06/1968</field>
+      <field name="CITY">Grand Junction</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84451</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1263</field>
+      <field name="FULL_NAME">Kropff, Joseph</field>
+      <field name="BIRTH_DATE">12/26/1968</field>
+      <field name="CITY">Grand Junction</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84451</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1264</field>
+      <field name="FULL_NAME">Worsham, Mimi</field>
+      <field name="BIRTH_DATE">07/29/1958</field>
+      <field name="CITY">Grand Junction</field>
+      <field name="STATE">Colorado</field>
+      <field name="ZIPCODE">84451</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1265</field>
+      <field name="FULL_NAME">Bernal, Ruth</field>
+      <field name="BIRTH_DATE">02/08/1958</field>
+      <field name="CITY">Provo</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90011</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1266</field>
+      <field name="FULL_NAME">Zimmerman, Yolanda</field>
+      <field name="BIRTH_DATE">04/12/1961</field>
+      <field name="CITY">Provo</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90011</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1267</field>
+      <field name="FULL_NAME">Evans, Sandra</field>
+      <field name="BIRTH_DATE">07/03/1959</field>
+      <field name="CITY">Salt Lake City</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90001</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1268</field>
+      <field name="FULL_NAME">Bowman, Virginia</field>
+      <field name="BIRTH_DATE">04/29/1957</field>
+      <field name="CITY">Provo</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90011</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1269</field>
+      <field name="FULL_NAME">Coleman, Mary</field>
+      <field name="BIRTH_DATE">07/27/1966</field>
+      <field name="CITY">Salt Lake City</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90001</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1270</field>
+      <field name="FULL_NAME">Chrisulis, Kevin</field>
+      <field name="BIRTH_DATE">11/18/1958</field>
+      <field name="CITY">Salt Lake City</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90001</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1271</field>
+      <field name="FULL_NAME">Whitcomb, Lee</field>
+      <field name="BIRTH_DATE">08/01/1967</field>
+      <field name="CITY">Provo</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90011</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1272</field>
+      <field name="FULL_NAME">Turcios, Brian</field>
+      <field name="BIRTH_DATE">09/22/1954</field>
+      <field name="CITY">Provo</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90011</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1273</field>
+      <field name="FULL_NAME">Confetti, Jennifer</field>
+      <field name="BIRTH_DATE">06/22/1949</field>
+      <field name="CITY">Salt Lake City</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90001</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1274</field>
+      <field name="FULL_NAME">Takemura, Geneva</field>
+      <field name="BIRTH_DATE">11/28/1959</field>
+      <field name="CITY">Salt Lake City</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90001</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1275</field>
+      <field name="FULL_NAME">Campbell, Lynn</field>
+      <field name="BIRTH_DATE">06/06/1962</field>
+      <field name="CITY">Salt Lake City</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90001</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1276</field>
+      <field name="FULL_NAME">Smith, Nina</field>
+      <field name="BIRTH_DATE">05/28/1955</field>
+      <field name="CITY">Salt Lake City</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90001</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1277</field>
+      <field name="FULL_NAME">Vuong, Darrell</field>
+      <field name="BIRTH_DATE">01/09/1959</field>
+      <field name="CITY">Provo</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90011</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1278</field>
+      <field name="FULL_NAME">Abbott, Eric</field>
+      <field name="BIRTH_DATE">12/08/1951</field>
+      <field name="CITY">Salt Lake City</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90001</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1279</field>
+      <field name="FULL_NAME">Liff, Doris</field>
+      <field name="BIRTH_DATE">10/02/1963</field>
+      <field name="CITY">Salt Lake City</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90001</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1280</field>
+      <field name="FULL_NAME">Steinberg, John</field>
+      <field name="BIRTH_DATE">09/29/1966</field>
+      <field name="CITY">Salt Lake City</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90001</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1281</field>
+      <field name="FULL_NAME">Megel, Jerry</field>
+      <field name="BIRTH_DATE">03/06/1966</field>
+      <field name="CITY">Provo</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90011</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1282</field>
+      <field name="FULL_NAME">Styles, John</field>
+      <field name="BIRTH_DATE">09/30/1973</field>
+      <field name="CITY">Salt Lake City</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90001</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1283</field>
+      <field name="FULL_NAME">Head, Shirley</field>
+      <field name="BIRTH_DATE">09/04/1957</field>
+      <field name="CITY">Salt Lake City</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90001</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1284</field>
+      <field name="FULL_NAME">Story, James</field>
+      <field name="BIRTH_DATE">07/11/1979</field>
+      <field name="CITY">Salt Lake City</field>
+      <field name="STATE">Utah</field>
+      <field name="ZIPCODE">90001</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1285</field>
+      <field name="FULL_NAME">Boone, Jean</field>
+      <field name="BIRTH_DATE">11/03/1944</field>
+      <field name="CITY">Reno</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1286</field>
+      <field name="FULL_NAME">Mccoy, Ralph</field>
+      <field name="BIRTH_DATE">09/30/1950</field>
+      <field name="CITY">Carson City</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90112</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1287</field>
+      <field name="FULL_NAME">Tuck, Anne</field>
+      <field name="BIRTH_DATE">01/16/1953</field>
+      <field name="CITY">Carson City</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90112</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1288</field>
+      <field name="FULL_NAME">Sincich, Joy</field>
+      <field name="BIRTH_DATE">05/20/1963</field>
+      <field name="CITY">Las Vegas</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90213</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1289</field>
+      <field name="FULL_NAME">Jameson, Bertha</field>
+      <field name="BIRTH_DATE">11/26/1952</field>
+      <field name="CITY">Reno</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1290</field>
+      <field name="FULL_NAME">Sanchez, Charles</field>
+      <field name="BIRTH_DATE">10/31/1957</field>
+      <field name="CITY">Reno</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1291</field>
+      <field name="FULL_NAME">Parks, Wanda</field>
+      <field name="BIRTH_DATE">03/15/1958</field>
+      <field name="CITY">Las Vegas</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90213</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1292</field>
+      <field name="FULL_NAME">Vij, Nathan</field>
+      <field name="BIRTH_DATE">04/05/1956</field>
+      <field name="CITY">Las Vegas</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90213</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1293</field>
+      <field name="FULL_NAME">Zugschwert, Corinne</field>
+      <field name="BIRTH_DATE">07/09/1958</field>
+      <field name="CITY">Las Vegas</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90213</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1294</field>
+      <field name="FULL_NAME">Adams, Michelle</field>
+      <field name="BIRTH_DATE">03/25/1974</field>
+      <field name="CITY">Las Vegas</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90213</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1295</field>
+      <field name="FULL_NAME">Steen, Donahue</field>
+      <field name="BIRTH_DATE">10/26/1975</field>
+      <field name="CITY">Reno</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1296</field>
+      <field name="FULL_NAME">Baker, John</field>
+      <field name="BIRTH_DATE">04/22/1968</field>
+      <field name="CITY">Reno</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1297</field>
+      <field name="FULL_NAME">Pearl, Keith</field>
+      <field name="BIRTH_DATE">02/03/1967</field>
+      <field name="CITY">Reno</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1298</field>
+      <field name="FULL_NAME">Roundtree, Sarah</field>
+      <field name="BIRTH_DATE">03/03/1960</field>
+      <field name="CITY">Carson City</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90112</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1299</field>
+      <field name="FULL_NAME">Bollin, Lawrence</field>
+      <field name="BIRTH_DATE">08/14/1959</field>
+      <field name="CITY">Carson City</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90112</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1300</field>
+      <field name="FULL_NAME">Hopkins, Fred</field>
+      <field name="BIRTH_DATE">02/09/1970</field>
+      <field name="CITY">Carson City</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90112</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1301</field>
+      <field name="FULL_NAME">Vicknair, Caroline</field>
+      <field name="BIRTH_DATE">09/09/1970</field>
+      <field name="CITY">Las Vegas</field>
+      <field name="STATE">Nevada</field>
+      <field name="ZIPCODE">90213</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1302</field>
+      <field name="FULL_NAME">McPhearson, Nancy</field>
+      <field name="BIRTH_DATE">12/26/1962</field>
+      <field name="CITY">Bend</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">96543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1303</field>
+      <field name="FULL_NAME">Albright, Anna</field>
+      <field name="BIRTH_DATE">06/07/1956</field>
+      <field name="CITY">Bend</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">96543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1304</field>
+      <field name="FULL_NAME">Thomas, Phyllis</field>
+      <field name="BIRTH_DATE">01/15/1962</field>
+      <field name="CITY">Bend</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">96543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1305</field>
+      <field name="FULL_NAME">Perko, Tina</field>
+      <field name="BIRTH_DATE">09/13/1961</field>
+      <field name="CITY">Portland</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">97653</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1306</field>
+      <field name="FULL_NAME">McCarty, Jane</field>
+      <field name="BIRTH_DATE">10/30/1963</field>
+      <field name="CITY">Bend</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">96543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1307</field>
+      <field name="FULL_NAME">Bent, Scot</field>
+      <field name="BIRTH_DATE">12/03/1947</field>
+      <field name="CITY">Portland</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">97653</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1308</field>
+      <field name="FULL_NAME">Chambers, Pat</field>
+      <field name="BIRTH_DATE">08/06/1960</field>
+      <field name="CITY">Portland</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">97653</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1309</field>
+      <field name="FULL_NAME">Bellifa, Stanley</field>
+      <field name="BIRTH_DATE">09/14/1972</field>
+      <field name="CITY">Portland</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">97653</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1310</field>
+      <field name="FULL_NAME">Johnson, Samuel</field>
+      <field name="BIRTH_DATE">06/05/1957</field>
+      <field name="CITY">Bend</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">96543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1311</field>
+      <field name="FULL_NAME">Vrins, Janice</field>
+      <field name="BIRTH_DATE">07/03/1958</field>
+      <field name="CITY">Portland</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">97653</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1312</field>
+      <field name="FULL_NAME">Mcdonald, Christinia</field>
+      <field name="BIRTH_DATE">10/01/1958</field>
+      <field name="CITY">Bend</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">96543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1313</field>
+      <field name="FULL_NAME">Weldon, Ole</field>
+      <field name="BIRTH_DATE">09/23/1946</field>
+      <field name="CITY">Portland</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">97653</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1314</field>
+      <field name="FULL_NAME">Choin, Ruth</field>
+      <field name="BIRTH_DATE">08/12/1964</field>
+      <field name="CITY">Bend</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">96543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1315</field>
+      <field name="FULL_NAME">Crow, Sharon</field>
+      <field name="BIRTH_DATE">01/21/1971</field>
+      <field name="CITY">Bend</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">96543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1316</field>
+      <field name="FULL_NAME">Avalos, Robert</field>
+      <field name="BIRTH_DATE">01/01/1975</field>
+      <field name="CITY">Bend</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">96543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1317</field>
+      <field name="FULL_NAME">Jacobsen, Eric</field>
+      <field name="BIRTH_DATE">10/28/1957</field>
+      <field name="CITY">Portland</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">97653</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1318</field>
+      <field name="FULL_NAME">Castro, Pamela</field>
+      <field name="BIRTH_DATE">06/01/1959</field>
+      <field name="CITY">Portland</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">97653</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1319</field>
+      <field name="FULL_NAME">Caldwell, Sylvia</field>
+      <field name="BIRTH_DATE">04/10/1961</field>
+      <field name="CITY">Bend</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">96543</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1320</field>
+      <field name="FULL_NAME">Reed, Russell</field>
+      <field name="BIRTH_DATE">08/06/1968</field>
+      <field name="CITY">Portland</field>
+      <field name="STATE">Oregon</field>
+      <field name="ZIPCODE">97653</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1321</field>
+      <field name="FULL_NAME">Kelley, Victor</field>
+      <field name="BIRTH_DATE">12/15/1955</field>
+      <field name="CITY">San Francisco</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">94501</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1322</field>
+      <field name="FULL_NAME">Taylor, Damon</field>
+      <field name="BIRTH_DATE">01/18/1958</field>
+      <field name="CITY">Los Angeles</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">93078</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1323</field>
+      <field name="FULL_NAME">Robinson, Rebecca</field>
+      <field name="BIRTH_DATE">04/30/1982</field>
+      <field name="CITY">Santa Clara</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">95054</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1324</field>
+      <field name="FULL_NAME">Thomsen, Andrea</field>
+      <field name="BIRTH_DATE">12/10/1967</field>
+      <field name="CITY">Bakersfield</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">92321</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1325</field>
+      <field name="FULL_NAME">Baldwin, Douglas</field>
+      <field name="BIRTH_DATE">03/07/1963</field>
+      <field name="CITY">Bakersfield</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">92321</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1326</field>
+      <field name="FULL_NAME">Yuhasz, Ian</field>
+      <field name="BIRTH_DATE">06/08/1965</field>
+      <field name="CITY">San Francisco</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">94501</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1327</field>
+      <field name="FULL_NAME">Carmody, Jovita</field>
+      <field name="BIRTH_DATE">03/23/1958</field>
+      <field name="CITY">Eureka</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">96887</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1328</field>
+      <field name="FULL_NAME">Gonzales, Lynn</field>
+      <field name="BIRTH_DATE">11/28/1969</field>
+      <field name="CITY">San Francisco</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">94501</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1329</field>
+      <field name="FULL_NAME">Allen, Phyllis</field>
+      <field name="BIRTH_DATE">10/03/1961</field>
+      <field name="CITY">Los Angeles</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">93078</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1330</field>
+      <field name="FULL_NAME">Caprio, Johnny</field>
+      <field name="BIRTH_DATE">11/26/1948</field>
+      <field name="CITY">Sacramento</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">96701</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1331</field>
+      <field name="FULL_NAME">Slaven, Lanna</field>
+      <field name="BIRTH_DATE">05/30/1955</field>
+      <field name="CITY">Santa Clara</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">95054</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1332</field>
+      <field name="FULL_NAME">Ortiz, Fred</field>
+      <field name="BIRTH_DATE">03/08/1961</field>
+      <field name="CITY">San Diego</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">92087</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1333</field>
+      <field name="FULL_NAME">Beaver, John</field>
+      <field name="BIRTH_DATE">11/17/1934</field>
+      <field name="CITY">Sacramento</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">96701</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1334</field>
+      <field name="FULL_NAME">Rhodes, Albert</field>
+      <field name="BIRTH_DATE">11/07/1960</field>
+      <field name="CITY">Fresno</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">93450</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1335</field>
+      <field name="FULL_NAME">Kaffer, Scott</field>
+      <field name="BIRTH_DATE">04/24/1967</field>
+      <field name="CITY">Eureka</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">96887</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1336</field>
+      <field name="FULL_NAME">Bales, Jennifer</field>
+      <field name="BIRTH_DATE">05/19/1946</field>
+      <field name="CITY">Bakersfield</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">92321</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1337</field>
+      <field name="FULL_NAME">Stotka, Louis</field>
+      <field name="BIRTH_DATE">06/17/1953</field>
+      <field name="CITY">Los Angeles</field>
+      <field name="STATE">California</field>
+      <field name="ZIPCODE">93078</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1338</field>
+      <field name="FULL_NAME">Maynard, Sandra</field>
+      <field name="BIRTH_DATE">09/05/1966</field>
+      <field name="CITY">Spokane</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98320</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1339</field>
+      <field name="FULL_NAME">Tuell, Gracia</field>
+      <field name="BIRTH_DATE">06/12/1970</field>
+      <field name="CITY">Redmond</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98123</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1340</field>
+      <field name="FULL_NAME">Burnett, Timothy</field>
+      <field name="BIRTH_DATE">09/24/1956</field>
+      <field name="CITY">Seattle</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1341</field>
+      <field name="FULL_NAME">Haugh, James</field>
+      <field name="BIRTH_DATE">08/16/1946</field>
+      <field name="CITY">Spokane</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98320</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1342</field>
+      <field name="FULL_NAME">Moberly, Paula</field>
+      <field name="BIRTH_DATE">01/27/1952</field>
+      <field name="CITY">Seattle</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1343</field>
+      <field name="FULL_NAME">Meyer, Eric</field>
+      <field name="BIRTH_DATE">02/05/1971</field>
+      <field name="CITY">Redmond</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98123</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1344</field>
+      <field name="FULL_NAME">Orona, Gloria</field>
+      <field name="BIRTH_DATE">09/25/1946</field>
+      <field name="CITY">Seattle</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1345</field>
+      <field name="FULL_NAME">Warmack, Ruth</field>
+      <field name="BIRTH_DATE">02/28/1964</field>
+      <field name="CITY">Spokane</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98320</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1346</field>
+      <field name="FULL_NAME">Wall, Joanna</field>
+      <field name="BIRTH_DATE">03/04/1958</field>
+      <field name="CITY">Spokane</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98320</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1347</field>
+      <field name="FULL_NAME">Appelbaum, Sabria</field>
+      <field name="BIRTH_DATE">11/21/1955</field>
+      <field name="CITY">Redmond</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98123</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1348</field>
+      <field name="FULL_NAME">Kung, Jeffrey</field>
+      <field name="BIRTH_DATE">08/02/1962</field>
+      <field name="CITY">Spokane</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98320</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1349</field>
+      <field name="FULL_NAME">Wilson, Gloria</field>
+      <field name="BIRTH_DATE">09/17/1956</field>
+      <field name="CITY">Seattle</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1350</field>
+      <field name="FULL_NAME">Tuffield, Phyllis</field>
+      <field name="BIRTH_DATE">02/27/1957</field>
+      <field name="CITY">Seattle</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1351</field>
+      <field name="FULL_NAME">Ping, Patricia</field>
+      <field name="BIRTH_DATE">10/27/1958</field>
+      <field name="CITY">Seattle</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1352</field>
+      <field name="FULL_NAME">Shepard, David</field>
+      <field name="BIRTH_DATE">05/17/1946</field>
+      <field name="CITY">Spokane</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98320</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1353</field>
+      <field name="FULL_NAME">Bailey, James</field>
+      <field name="BIRTH_DATE">05/07/1966</field>
+      <field name="CITY">Redmond</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98123</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1354</field>
+      <field name="FULL_NAME">Chestnut, Susan</field>
+      <field name="BIRTH_DATE">10/23/1955</field>
+      <field name="CITY">Redmond</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98123</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1355</field>
+      <field name="FULL_NAME">Toone, Delia</field>
+      <field name="BIRTH_DATE">07/22/1959</field>
+      <field name="CITY">Seattle</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1356</field>
+      <field name="FULL_NAME">Armstrong, Thomas</field>
+      <field name="BIRTH_DATE">03/24/1952</field>
+      <field name="CITY">Seattle</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1357</field>
+      <field name="FULL_NAME">Billstrom, Mary</field>
+      <field name="BIRTH_DATE">09/06/1947</field>
+      <field name="CITY">Seattle</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98023</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1358</field>
+      <field name="FULL_NAME">Stotka, Robert</field>
+      <field name="BIRTH_DATE">05/23/1950</field>
+      <field name="CITY">Redmond</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98123</field>
+    </row>
+    <row>
+      <field name="CUSTOMER_ID">1359</field>
+      <field name="FULL_NAME">Johnson, Danielle</field>
+      <field name="BIRTH_DATE">09/30/1972</field>
+      <field name="CITY">Seattle</field>
+      <field name="STATE">Washington</field>
+      <field name="ZIPCODE">98023</field>
+    </row>
+</ROOT>

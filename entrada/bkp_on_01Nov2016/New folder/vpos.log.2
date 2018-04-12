@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-10-26T13:31:07</date>
+  <millis>1477474267515</millis>
+  <sequence>0</sequence>
+  <logger>com.infogain.vpos.service.rest</logger>
+  <level>FINER</level>
+  <class>com.infogain.vpos.service.rest.VposService</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>Entering VposService(Context)</message>
+</record>
+<record>
+  <date>2016-10-26T13:31:07</date>
+  <millis>1477474267843</millis>
+  <sequence>1</sequence>
+  <logger>com.infogain.vpos.service.rest</logger>
+  <level>FINER</level>
+  <class>com.infogain.vpos.service.rest.VposService</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>com.infogain.vpos.service.rest.VposService Constructor Entered with Context</message>
+</record>
+<record>
+  <date>2016-10-26T13:31:08</date>
+  <millis>1477474268968</millis>
+  <sequence>2</sequence>
+  <logger>com.infogain.vpos.service.rest</logger>
+  <level>FINE</level>
+  <class>com.infogain.vpos.service.rest.VposWebServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>10</thread>
+  <message>com.infogain.vpos.service.rest.VposWebServer Constructor, Called Constructor without Context</message>
+</record>
+<record>
+  <date>2016-10-26T13:31:09</date>
+  <millis>1477474269187</millis>
+  <sequence>3</sequence>
+  <logger>com.lmg.vpos.decryption.DecryptionUtil</logger>
+  <level>INFO</level>
+  <class>com.lmg.vpos.security.decryption.DecryptionUtil</class>
+  <method>decryptKey</method>
+  <thread>10</thread>
+  <message>Decryption complete</message>
+</record>
+<record>
+  <date>2016-10-26T13:31:09</date>
+  <millis>1477474269734</millis>
+  <sequence>4</sequence>
+  <logger>com.lmg.vpos.service.rest.LMGCsbDispatcher</logger>
+  <level>SEVERE</level>
+  <class>com.lmg.vpos.service.rest.LMGCsbDispatcher</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Failed in LMGCsbDispatcher.main</message>
+  <exception>
+    <message>java.net.BindException: Address already in use: JVM_Bind</message>
+    <frame>
+      <class>java.net.PlainSocketImpl</class>
+      <method>socketBind</method>
+    </frame>
+    <frame>
+      <class>java.net.PlainSocketImpl</class>
+      <method>bind</method>
+      <line>359</line>
+    </frame>
+    <frame>
+      <class>java.net.ServerSocket</class>
+      <method>bind</method>
+      <line>319</line>
+    </frame>
+    <frame>
+      <class>java.net.ServerSocket</class>
+      <method>&lt;init&gt;</method>
+      <line>185</line>
+    </frame>
+    <frame>
+      <class>javax.net.ssl.SSLServerSocket</class>
+      <method>&lt;init&gt;</method>
+      <line>106</line>
+    </frame>
+    <frame>
+      <class>com.sun.net.ssl.internal.ssl.SSLServerSocketImpl</class>
+      <method>&lt;init&gt;</method>
+      <line>106</line>
+    </frame>
+    <frame>
+      <class>com.sun.net.ssl.internal.ssl.SSLServerSocketFactoryImpl</class>
+      <method>createServerSocket</method>
+      <line>71</line>
+    </frame>
+    <frame>
+      <class>org.eclipse.jetty.server.ssl.SslSocketConnector</class>
+      <method>newServerSocket</method>
+      <line>378</line>
+    </frame>
+    <frame>
+      <class>org.eclipse.jetty.server.bio.SocketConnector</class>
+      <method>open</method>
+      <line>75</line>
+    </frame>
+    <frame>
+      <class>org.eclipse.jetty.server.AbstractConnector</class>
+      <method>doStart</method>
+      <line>358</line>
+    </frame>
+    <frame>
+      <class>org.eclipse.jetty.server.bio.SocketConnector</class>
+      <method>doStart</method>
+      <line>146</line>
+    </frame>
+    <frame>
+      <class>org.eclipse.jetty.util.component.AbstractLifeCycle</class>
+      <method>start</method>
+      <line>55</line>
+    </frame>
+    <frame>
+      <class>org.eclipse.jetty.server.Server</class>
+      <method>doStart</method>
+      <line>253</line>
+    </frame>
+    <frame>
+      <class>org.eclipse.jetty.util.component.AbstractLifeCycle</class>
+      <method>start</method>
+      <line>55</line>
+    </frame>
+    <frame>
+      <class>org.restlet.ext.jetty.JettyServerHelper</class>
+      <method>start</method>
+      <line>398</line>
+    </frame>
+    <frame>
+      <class>org.restlet.Server</class>
+      <method>start</method>
+      <line>586</line>
+    </frame>
+    <frame>
+      <class>org.restlet.Component</class>
+      <method>startServers</method>
+      <line>604</line>
+    </frame>
+    <frame>
+      <class>org.restlet.Component</class>
+      <method>start</method>
+      <line>531</line>
+    </frame>
+    <frame>
+      <class>com.lmg.vpos.service.rest.LMGCsbDispatcher</class>
+      <method>main</method>
+      <line>64</line>
+    </frame>
+  </exception>
+</record>
+</log>

@@ -1,0 +1,54 @@
+<!-- Note that the transformation only covers a common subset of XML Schema.
+     Unknown elements will be ignored. -->
+
+
+<!-- ELEMENT log -->
+<!ELEMENT log ( #PCDATA ) > (
+
+<!-- ELEMENT date -->
+<!ELEMENT date ( #PCDATA ) >,
+
+<!-- ELEMENT millis -->
+<!ELEMENT millis ( #PCDATA ) >,
+
+<!-- ELEMENT sequence -->
+<!ELEMENT sequence ( #PCDATA ) >,
+
+<!-- ELEMENT logger -->
+<!ELEMENT logger ( #PCDATA ) >,
+
+<!-- ELEMENT level -->
+<!ELEMENT level ( #PCDATA ) >,
+
+<!-- ELEMENT class -->
+<!ELEMENT class ( #PCDATA ) >,
+
+<!-- ELEMENT method -->
+<!ELEMENT method ( #PCDATA ) >,
+
+<!-- ELEMENT thread -->
+<!ELEMENT thread ( #PCDATA ) >,
+
+<!-- ELEMENT message -->
+<!ELEMENT message ( #PCDATA ) >,
+
+<!-- ELEMENT exception -->
+<!ELEMENT exception ( #PCDATA ) > ) (
+
+<!-- ELEMENT class -->
+<!ELEMENT class ( #PCDATA ) >,
+
+<!-- ELEMENT method -->
+<!ELEMENT method ( #PCDATA ) >,
+
+<!-- ELEMENT line -->
+<!ELEMENT line ( #PCDATA ) > ) (
+
+<!-- ELEMENT message -->
+<!ELEMENT message ( #PCDATA ) >,
+
+<!-- ELEMENT frame -->
+<!ELEMENT frame ( #PCDATA ) > ) (
+
+<!-- ELEMENT record -->
+<!ELEMENT record ( #PCDATA ) > )
